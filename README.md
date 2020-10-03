@@ -2,4 +2,4 @@
 
 This app does nothing :(
 
-(https://github.com/VijayGohel/I_am_Rich-App/images/ss.jpg)
+![Finished App](https://github.com/VijayGohel/I_am_Rich-App/images/ss.jpg)
